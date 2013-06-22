@@ -1,0 +1,5 @@
+INDEX VERSION 1.122+/home/oaicstef/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3858738984.index
+215228168.index
+883658983.index
+83263741.index
